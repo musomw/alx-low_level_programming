@@ -3,13 +3,12 @@
 #include <stdio.h>
 
 /**
-* Print if the number is positive, zero or negative
+* main - print if the number is positive, zero or negative
 *
-*Description: using the main function 
-*This program prints "Programming is positivem zero or negative"
-*Return: 0
+* Description: using the main function 
+* this program prints "Programming is positivem zero or negative
+* Return: 0
 */
-
 int main(void)
 {
 int n;
