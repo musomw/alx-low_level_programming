@@ -7,7 +7,7 @@
  * Return: returns new concatenated string
  */
 
-char *_strncat(*dest, char *src, int n)
+char *_strncat(char *dest, char *src, int n)
 {
 	int index = 0, dest_len = 0;
 
@@ -19,3 +19,4 @@ char *_strncat(*dest, char *src, int n)
 
 	return (dest);
 }
+
