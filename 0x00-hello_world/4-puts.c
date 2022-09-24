@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*Main: - main printing method
+*main - main Printing
 *
 *Return: returns 0
 */
