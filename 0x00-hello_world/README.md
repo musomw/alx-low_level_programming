@@ -1,1 +1,1 @@
-0x00. C - Hello, World
+script that generates assembly code.
