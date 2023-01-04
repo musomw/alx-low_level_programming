@@ -3,9 +3,9 @@
 
 /**
  * File: main.h
- * Auth: me
+ * Auth: Musonda Mwango
  * Desc: Header file containing prototypes for all functions
- *       used in the 0x07-recursion directory.
+ *       used in the 0x08-recursion directory.
  */
 
 int _putchar(char c);
@@ -20,3 +20,4 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 
 #endif
+

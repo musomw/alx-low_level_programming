@@ -1,18 +1,23 @@
 /*
-* File 0-puts_recursion
-* Author: Musonda Mwango
-*/
+ * File: 0-puts_recursion.c
+ * Auth: Musonda Mwango
+ */
+
 #include "main.h"
-#include <unistd.h>
 
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print
- *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
+ * _puts_recursion - Prints a string, followed by a new line.
+ * @s: The string to be printed.
  */
-int _putchar(char c)
+void _puts_recursion(char *s)
 {
-	return (write(1, &c, 1));
+        if (*s)
+        {
+                _putchar(*s);
+                _puts_recursion(s + 1);
+        }
+
+        else
+                _putchar('\n');
 }
+
