@@ -1,6 +1,6 @@
 /*
  * 3-factorial.c
- * Auth: sam
+ * Auth:Musonda Mwango
  */
 
 #include "main.h"

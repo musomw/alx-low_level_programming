@@ -1,7 +1,7 @@
 
 /*
  * File: 4-pow_recursion.c
- * Auth: sam
+ * Auth: Musonda Mwango
  */
 
 #include "main.h"

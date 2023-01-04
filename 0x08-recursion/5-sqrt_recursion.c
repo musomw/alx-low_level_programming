@@ -1,6 +1,6 @@
 /*
  * File: 5-sqrt_recursion.c
- * Auth: sam tech
+ * Auth: Musonda Mwango
  */
 
 #include "main.h"
