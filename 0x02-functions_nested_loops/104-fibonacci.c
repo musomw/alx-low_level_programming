@@ -2,11 +2,11 @@
 
 
 	/**
-	 * main - fibonacci <3
+	 * main - fibonacci.
 	 *
-	 * Purpose - no hardcode
+	 * Purpose - no hardcode.
 	 *
-	 * Return:  (Success).
+	 * Return: 0  success.
 	 */
 	int main(void)
 	{
