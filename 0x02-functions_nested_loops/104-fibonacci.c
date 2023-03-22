@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-
 	/**
-	 * main - fibonacci <3
+	 * main - fibonacci
 	 *
 	 * Purpose - no hardcode
 	 *
