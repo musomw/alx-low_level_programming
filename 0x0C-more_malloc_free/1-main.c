@@ -3,17 +3,17 @@
 #include <stdlib.h>
 
 /**
- * main - check the code
- *
- * Return: Always 0.
- */
+* main - check the code
+*
+* Return: Always 0.
+*/
 int main(void)
 {
-    char *concat;
+char *concat;
 
-    concat = string_nconcat("Best ", "School !!!", 6);
-    printf("%s\n", concat);
-    free(concat);
-    return (0);
+concat = string_nconcat("Best ", "School !!!", 6);
+printf("%s\n", concat);
+free(concat);
+return (0);
 }
 
